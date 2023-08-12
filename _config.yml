@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Tech Expert Academy
+email: aybars.dorman@gmail.com
+author: Aybars Dorman
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -37,8 +37,8 @@ author: GitHub User
 # * sound recording copyright: (p) - ℗
 #
 # For example:
-#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
-#   "Copyright © 2017-2021 Foobar"
+#   "Copyright (c) 2023-{currentYear} <a href="https://example.com">{author}</a>"
+#   "Copyright © 2017-2023 Foobar"
 #
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
